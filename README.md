@@ -11,3 +11,6 @@ https://sds.fukuoka.jp/
 
 ## CSS
 - Tailwind https://tailwindcss.com/
+
+## 元サイトのデータ
+- v1ブランチに保存。 https://github.com/sds-fukuoka/sds.fukuoka.jp/tree/v1
