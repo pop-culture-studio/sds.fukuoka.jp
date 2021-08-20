@@ -1,2 +1,2 @@
 require('./fixmenu_pagetop');
-require('./pagetop');
+require('./smoothscroll');
