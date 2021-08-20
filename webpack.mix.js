@@ -17,7 +17,3 @@ mix.js('resources/js/app.js', 'assets/js')
         require('tailwindcss'),
     ])
     .disableNotifications();
-
-// if (mix.inProduction()) {
-//     mix.version();
-// }
