@@ -10,8 +10,9 @@ https://sds.fukuoka.jp/
 - ebit https://www.ebit.co.jp/
 - Vercelのカスタムドメインを設定 https://vercel.com/docs/custom-domains
 
-## CSS
+## JS, CSS
 - Tailwind https://tailwindcss.com/
+- 編集するのは`resources/`内だけ。`assets`は触らない。
 
 ## 元サイトのデータ
 - v1ブランチに保存。 https://github.com/sds-fukuoka/sds.fukuoka.jp/tree/v1
