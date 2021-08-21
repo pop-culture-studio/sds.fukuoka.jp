@@ -1,4 +1,5 @@
 const mix = require('laravel-mix');
+const fs = require('fs');
 
 /*
  |--------------------------------------------------------------------------
@@ -16,4 +17,10 @@ mix.js('resources/js/app.js', 'assets/js')
         require('postcss-import'),
         require('tailwindcss'),
     ])
+    .copy('./index.html', 'public')
+    .copyDirectory('images', 'public/images')
+    .copyDirectory('assets', 'public/assets')
+    // .after(webpackStats => {
+    //     fs.unlinkSync('mix-manifest.json')
+    // })
     .disableNotifications();
