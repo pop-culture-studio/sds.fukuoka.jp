@@ -2,3 +2,7 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 @import './pagetop.css';
+
+.sds-h2 {
+    @apply bg-blue-400 text-white text-xl font-bold p-2 my-2 rounded-sm;
+}
