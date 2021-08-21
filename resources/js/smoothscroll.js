@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
             e.preventDefault();
             const href = scroll.getAttribute('href');
 
-            const targetElement = href === '#' || 　href === '' ? document.getElementsByTagName('html')[0] : document.getElementById(href.replace('#', ''));
+            const targetElement = href === '#' || href === '' ? document.getElementsByTagName('html')[0] : document.getElementById(href.replace('#', ''));
 
             const top = targetElement.getBoundingClientRect().top;
             const offset = window.pageYOffset;
