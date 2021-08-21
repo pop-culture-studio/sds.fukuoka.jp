@@ -14,5 +14,8 @@ https://sds.fukuoka.jp/
 - Tailwind https://tailwindcss.com/
 - 編集するのは`resources/`内だけ。`assets`は触らない。
 
+## public
+- 最終的に公開されるのは`public`内のみ。Vercelへの公開時に自動化されているので基本的には気にしなくていい。
+
 ## 元サイトのデータ
 - v1ブランチに保存。 https://github.com/sds-fukuoka/sds.fukuoka.jp/tree/v1
