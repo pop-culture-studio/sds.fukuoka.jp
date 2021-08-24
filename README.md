@@ -7,7 +7,7 @@ https://sds.fukuoka.jp/
   - GitHubで更新すれば自動で反映される。
 
 ## ドメイン
-- ebit https://www.ebit.co.jp/
+- AWS Route53
 - Vercelのカスタムドメインを設定 https://vercel.com/docs/custom-domains
 
 ## JS, CSS
