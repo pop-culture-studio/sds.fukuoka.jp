@@ -20,3 +20,4 @@ mix.js('resources/js/app.js', 'assets/js')
     .copyDirectory('images', 'public/images')
     .copyDirectory('assets', 'public/assets')
     .disableNotifications();
+    
