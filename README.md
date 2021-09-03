@@ -1,4 +1,4 @@
-# SDS公式サイト
+# PCS公式サイト
 
 https://sds.fukuoka.jp/
 
