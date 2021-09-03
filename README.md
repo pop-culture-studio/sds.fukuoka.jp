@@ -19,4 +19,4 @@ https://sds.fukuoka.jp/
 - 最終的に公開されるのは`public`内のみ。Vercelへの公開時に自動化されているので基本的には気にしなくていい。
 
 ## 元サイトのデータ
-- v1ブランチに保存。 https://github.com/sds-fukuoka/sds.fukuoka.jp/tree/v1
+- v1ブランチに保存。 https://github.com/pop-culture-studio/sds.fukuoka.jp/tree/v1
