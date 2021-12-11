@@ -1,8 +1,8 @@
 const defaultTheme = require('tailwindcss/defaultTheme');
 
 module.exports = {
-    // mode: 'jit',
-    purge: [
+
+    content: [
         './*.html',
     ],
 
@@ -11,12 +11,6 @@ module.exports = {
             fontFamily: {
                 sans: ['"M PLUS Rounded 1c"', ...defaultTheme.fontFamily.sans],
             },
-        },
-    },
-
-    variants: {
-        extend: {
-            opacity: ['disabled'],
         },
     },
 };
