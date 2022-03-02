@@ -1,7 +1,5 @@
 # PCS公式サイト
 
-https://sds.fukuoka.jp/
-
 ## サーバー
 - Vercel https://vercel.com/
   - GitHubで更新すれば自動で反映される。
